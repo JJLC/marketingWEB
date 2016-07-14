@@ -1,0 +1,73 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color: #f1f1f2;
+}
+	
+.topico
+{
+	font-weight: bold;
+	margin-top: 14px;
+}
+
+.miolo
+{
+	text-indent: 20px;
+	text-align: justify;
+}
+
+.barraTopo
+{
+	color: white;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 985px;
+	height: 143px;
+	background-image: url('../images/brr_home.jpg');
+}
+
+.fraseTopo1
+{
+	font-family: sans-serif;
+	font-size: 30px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.fraseTopo2
+{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	text-align: right;
+}
+
+.sombra
+{
+	position: absolute;
+	top: 143px;
+	left: 0px;
+	width: 985px;
+	height: 44px;
+	background-image: url('../images/sombra.jpg');
+}
+.gold
+{
+	font-size: 34px;
+	font-weight: bold;
+}
+
+#mainContaineur
+{
+	position: absolute;
+	top: 170px;
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #0D2D5C;
+	width: 35%;
+}

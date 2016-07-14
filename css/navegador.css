@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color: #f1f1f2;
+	font-family: Arial;
+}
+
+#tbl_navegador
+{
+	font-size: 12px;
+	font-weight: bold;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.btn1
+{
+	width: 70px;
+	height: 37px;
+	text-align: center;
+	color: white;
+	cursor: pointer;
+}
+
+.btn2
+{
+    width: 82px;
+    height: 37px;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+}
+
+.btn3
+{
+    width: 82px;
+    height: 37px;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+}
+
+.btn4
+{
+    width: 111px;
+    height: 37px;
+    text-align: center;
+    color: black;
+	cursor: pointer;
+}

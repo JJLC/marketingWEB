@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	background-image: url(../images/brr_home.jpg);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-color: #f1f1f2;
+}
+
+td
+{
+	color: white;
+	font-family: Myriad Pro;
+	text-align: center;
+	width: 33%
+}
+
+.rodape
+{
+	color: white;
+	font-size: 12px;
+}

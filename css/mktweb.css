@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	font-family: Myriad Pro;
+	background-color: #f1f1f2;
+}
+
+table
+{
+	font-family: Myriad Pro;
+	color: #3A3C3C;
+}
+
+textarea
+{
+	font-family: Myriad Pro;
+	font-size: 13px;
+}

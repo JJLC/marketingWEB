@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+
+pictureWidth="100"
+pictureHeight="100"
+radius="234"
+elevation="-30"
+carouselAngle="0"
+foregroundZoom="100"
+backgroundZoom="53"
+backgroundBlur="10"
+backgroundAlpha="100"
+rotationSpeed="3"
+rotationNumber="1"
+onRotButBarShowArrows="1"
+onRotButBarAutoPlay="1"
+onRotButBarAutoPlayDelay="20"
+onRotButBarAutoPlayRotType="right"
+onAutoRotateRotType="left"
+stopRotatingOnMouseOver="0"
+easeAmmount="80"
+navigation_y="100"
+enableimageStroke="0"
+imageStrokeSize="0"
+imageStrokeColor="0x7b0000"
+enableImageReflection="1"
+imageReflectionSize="28"
+imageReflectionAlpha="18"
+imageReflectionDist="0"
+rotateThumb="0"
+showLogo="1"
+logoWidth="150"
+logoHeight="150"
+logoAlpha="100"
+logo="logo/logo.png"
+enableWheelZooming="1"
+zoomImageOnMouseOver="1"
+hoverZoom="30"
+zoomSpeed="12"
+brightenImageOnMouseOver="1"
+brightenAmmount="12"
+SwapDepthsOnMouseOver="1"
+enableMouseOverStroke="1"
+mouseOverStrokeSize="0"
+mouseOverStrokeColor="#f1f1f2"
+enEffOnOtherThumb="1"
+effDesaturate="100"
+effDarken="32"
+effAlpha="66"
+effBlur="5"
+effTime="26"
+enableTooltip="0"
+tooltipType=""
+tooltipPos="top"
+tooltipMouseFollow="1"
+tooltipAlwaysVisible="0"
+
+
+
+>
+</menu>
+
+<pictures>
+	<picture thumb="test-images/01.png" description="Tons of customisation options" name="http://www.google.com" param="_blank" border="0"></picture>
+	<picture thumb="test-images/02.png" description="User controlled rotation or auto-rotate" name="http://www.google.com" param="_blank"></picture>
+	<picture thumb="test-images/03.png" description="Item description" name="http://www.google.com" param="_blank"></picture>
+	<picture thumb="test-images/04.png" description="Carousel Angle" name="http://www.google.com" param="_blank"></picture>
+	<picture thumb="test-images/05.png" description="Effects on other images" name="http://www.google.com" param="_blank"></picture>
+	<picture thumb="test-images/09.png" description="Tooltip Description" name="http://www.google.com" param="_blank"></picture>
+	<picture thumb="test-images/07.png" description="WebDesign" name="http://www.google.com" param="_blank"></picture>
+	<picture thumb="test-images/08.png" description="This is a very long description just to test the tooltip resize feature" name="http://www.google.com" param="_blank"></picture>
+</pictures>
+	
+	

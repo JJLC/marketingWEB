@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	text-align: center;
+	background-color: #F1F1F2;
+	font-family: Arial;
+}
+
+#sheet
+{
+	width: 985x;
+	text-align: left;
+}

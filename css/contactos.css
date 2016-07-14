@@ -1,0 +1,66 @@
+@CHARSET "ISO-8859-1";
+
+.barraContacto
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 985px;
+	height: 143px;
+	background-image: url('../../images/brr_contacto.jpg');
+}
+
+.barraSombra
+{
+	position: absolute;
+	top: 143px;
+	left: 0px;
+	width: 985px;
+	height: 44px;
+	background-image: url('../../images/sombra.jpg');
+}
+
+p
+{
+	margin-top: 200px;
+	font-size: 30px;
+	margin-left: 75px;
+}
+
+#form_contactos
+{
+	margin-top: 25px;
+	margin-left: 75px;
+	width: 382px;
+}
+
+.companies
+{
+	position: absolute;
+	top: 200px;
+	right:50px;
+	width: 382px;
+	border-left: dotted 1px black;
+}
+
+.company
+{
+	margin-top: 25px;
+	margin-left: 50px;
+}
+
+.companyName
+{
+	font-size: 20px;
+}
+
+.companyAddress
+{
+	font-size: 14px;
+}
+
+.companyPhone
+{
+	margin-top: 20px;
+	font-size: 14px;
+}

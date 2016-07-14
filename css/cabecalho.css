@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color: #f1f1f2;
+	font-family: Arial;
+}
+
+.mainContainer
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#barra_topo_pt
+{
+	width: 985px;
+	height: 136px;
+	border-width: 0px;
+}
